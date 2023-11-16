@@ -1,0 +1,19 @@
+.root {
+    -fx-background-color: #fff
+ }
+ 
+ .text-field, .password-field {
+    -fx-font-size: 16px;
+ }
+ 
+ .button {
+    -fx-font-size: 14px;
+    -fx-background-color: #007bff;
+    -fx-text-fill: white;
+ }
+ 
+ .button:hover {
+   -fx-text-fill: black;
+    -fx-background-color: #00b30c;
+ }
+ 
